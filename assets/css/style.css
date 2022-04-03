@@ -1236,10 +1236,9 @@ Banner Style
   .submit-btn {
     height: 53px !important;
     font-size: 16px !important;
-    width: 120px !important;
+    width: 90px !important;
     text-align-last: center;
     margin-left: -5px !important;
-    width: 98px !important;
   }
 
   .mobile-message {
